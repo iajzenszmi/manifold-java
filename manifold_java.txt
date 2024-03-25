@@ -1,0 +1,2 @@
+java ManifoldDataGenerator.java > data.txt
+gnuplot gnuplot_manifold.gp
